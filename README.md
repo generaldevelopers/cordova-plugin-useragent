@@ -3,7 +3,7 @@ Plugin for Cordova 3.0+ that allows you to change your User-Agent for HTTP reque
 
 ## Adding the plugin to your project ##
 To install the plugin, use the Cordova CLI and enter the following:<br />
-`cordova plugin add https://github.com/aaronneon2/cordova-plugin-useragent`
+`cordova plugin add https://github.com/generaldevelopers/cordova-plugin-useragent`
 
 ## Platforms ##
 - Android
